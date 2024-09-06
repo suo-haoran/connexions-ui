@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">cs206-app-lb-361256259.ap-southeast-1.elb.amazonaws.com</domain>
+    </domain-config>
+</network-security-config>
